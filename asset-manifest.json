@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/github.io/fdgfd/static/js/main.060ff17c.js",
-    "index.html": "/github.io/fdgfd/index.html",
-    "main.060ff17c.js.map": "/github.io/fdgfd/static/js/main.060ff17c.js.map"
+    "main.js": "/fdgfd/static/js/main.060ff17c.js",
+    "index.html": "/fdgfd/index.html",
+    "main.060ff17c.js.map": "/fdgfd/static/js/main.060ff17c.js.map"
   },
   "entrypoints": [
     "static/js/main.060ff17c.js"
